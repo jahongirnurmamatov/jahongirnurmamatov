@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jahongirnurmamatov
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me via telegram using this username: @joker_9412
 
 <!---
